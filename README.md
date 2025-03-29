@@ -32,17 +32,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Highlights | Links |
-|---------|------------|------------|-------|
-| **Vision_AI** <br/> AI Navigation for Visually Impaired | React, TensorFlow, Arduino | • 40% faster candidate evaluation <br/> • Hackathon Winner | [Demo](link) \| [Code](https://github.com/Ekam219/VISION_AI) |
-| **Spanning Tree Optimization** | Python, NetworkX | • 35% fewer edge queries <br/> • Published Research | [Paper](link) \| [Code](https://github.com/Ekam219/Probabilistic-Optimization...) |
-| **Staffing Platform** <br/> MERN Recruitment Dashboard | React, Node.js, Chart.js | • 30% recruitment efficiency boost <br/> • Automated Resume Parsing | [Demo](link) \| [Code](https://github.com/Ekam219/Staffing-website) |
-
----
 
 ### 📈 GitHub Analytics
 
