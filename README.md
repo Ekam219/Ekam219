@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ekam Jot Singh 
 **Full-Stack Developer | Competitive Programmer | AI/ML Enthusiast**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ekam-jot-singh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ekam-jot-singh-938419249/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ekamjotjaggi2511@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Ekam219?label=Follow&style=social)](https://github.com/Ekam219)
 
